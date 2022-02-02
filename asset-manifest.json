@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.998183df.css",
-    "main.js": "/static/js/main.6abb5de4.js",
+    "main.css": "/static/css/main.f705ce58.css",
+    "main.js": "/static/js/main.29bc6905.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/resume.pdf": "/static/media/resume.4bae43141fb048637354.pdf",
     "static/media/wip-logo.svg": "/static/media/wip-logo.ae6f262c28bace19a0eeb7aa4760d1c2.svg",
@@ -11,12 +11,12 @@
     "static/media/github-icon.svg": "/static/media/github-icon.10f27cbfd14ae23d279b7a1018d4f4d6.svg",
     "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.bdae80301143813efcdefdfb9dbf2b2c.svg",
     "index.html": "/index.html",
-    "main.998183df.css.map": "/static/css/main.998183df.css.map",
-    "main.6abb5de4.js.map": "/static/js/main.6abb5de4.js.map",
+    "main.f705ce58.css.map": "/static/css/main.f705ce58.css.map",
+    "main.29bc6905.js.map": "/static/js/main.29bc6905.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.998183df.css",
-    "static/js/main.6abb5de4.js"
+    "static/css/main.f705ce58.css",
+    "static/js/main.29bc6905.js"
   ]
 }
